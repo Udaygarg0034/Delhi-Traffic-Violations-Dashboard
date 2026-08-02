@@ -103,7 +103,7 @@ Delhi-Traffic-Violations-Dashboard/
 **Uday Garg**
 - 📚 PG Program in Data Science & Analytics — Imarticus Learning
 - 💼 Aspiring Data Analyst
-- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/uday-garg)
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/uday-garg-b08374295)
 
 ---
 
